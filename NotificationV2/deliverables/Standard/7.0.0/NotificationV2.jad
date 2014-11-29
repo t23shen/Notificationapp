@@ -1,0 +1,19 @@
+MIDlet-Name: NotificationV2
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: NotificationV2.jar
+MIDlet-Jar-Size: 172204
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: NotificationV2.cod
+RIM-COD-Size: 49064
+RIM-COD-Creation-Time: 1322840339
+RIM-COD-Module-Name: NotificationV2
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_ui_extension
+RIM-COD-SHA1: 20 41 c7 25 df 9c 5b 54 ca ef a6 6c 1e 88 d5 70 44 27 74 4e
+RIM-COD-URL-1: NotificationV2-1.cod
+RIM-COD-Size-1: 30932
+RIM-COD-SHA1-1: 0e 0c fb 82 4a cb 79 24 95 8b ed 7b 6e b8 59 d0 06 96 f8 78

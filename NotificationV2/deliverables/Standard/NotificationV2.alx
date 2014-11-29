@@ -1,0 +1,41 @@
+<loader version="1.0">
+	<application id="NotificationV2">
+		<name >
+			
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0,6.0.1)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				NotificationV2.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.54" _blackberryVersion="[7.0.0)">
+			<directory >
+				7.0.0
+			</directory>
+			<files >
+				NotificationV2.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
